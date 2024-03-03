@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @urkweenkayla
+- 👋 Hi, I’m Kayla! 
 - 👀 I’m interested in web development and software development.
 - 🎓 I have a Bachelor's Degree in Philosophy. 
 - 🌱 I’m currently taking Harvard's CS50: Intro to CompSci to establish a foundation to ground everything I've learned so far and everything I will learn! 
